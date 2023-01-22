@@ -1,5 +1,7 @@
 <!-- omit in toc -->
-# anki-mc
+# anki-mc-12q
+
+Forked because of https://github.com/zjosua/anki-mc/issues/87 and the linked fork https://github.com/giselaortt/anki-multiple-choice-with-12-options is no longer maintained.
 
 Adds multiple choice cards to Anki.
 
