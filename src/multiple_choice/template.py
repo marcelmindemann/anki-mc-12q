@@ -48,8 +48,8 @@ from aqt import Collection, mw
 from .config import *
 from .packaging import version
 
-aio_model = "AllInOne (kprim, mc, sc)"
-aio_card = "AllInOne (kprim, mc, sc)"
+aio_model = "MultipleChoice 12Q"
+aio_card = "MultipleChoice 12Q"
 aio_fields = {
     "question": "Question",
     "title": "Title",
@@ -59,6 +59,13 @@ aio_fields = {
     "q3": "Q_3",
     "q4": "Q_4",
     "q5": "Q_5",
+    "q6": "Q_6",
+    "q7": "Q_7",
+    "q8": "Q_8",
+    "q9": "Q_9",
+    "q10": "Q_10",
+    "q11": "Q_11",
+    "q12": "Q_12",
     "answers": "Answers",
     "sources": "Sources",
     "extra": "Extra 1"
